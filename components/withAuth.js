@@ -1,3 +1,5 @@
+// note, we're not using this component but it's an example
+// of an HOC to handle auth and protected routes
 import React, { useEffect } from "react"
 import router from "next/router"
 import nextCookie from "next-cookies"
